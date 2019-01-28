@@ -1,7 +1,7 @@
 # BlazorServiceWorker
 A Client-Side blazor template with service worker caching.
 
-## Install with .NET Core CLI :
+## Install via the .NET Core CLI :
 ``
 dotnet new -i RC.Blazor.Hosted.Service.Worker
 ``\
